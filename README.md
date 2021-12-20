@@ -7,7 +7,7 @@
   Gatsby minimal starter
 </h1>
 
-## 🚀 Quick start / Test 3
+## 🚀 Quick start / Test 4
 
 1.  **Create a Gatsby site.**
 
